@@ -24,7 +24,7 @@ Replace all required text in index.html
 - [Tippy.js](https://atomiks.github.io/tippyjs/) - complete tooltip, popover, dropdown, and menu solution for the web, powered by [Popper](https://popper.js.org/).
 - [Fontawesome Icon](https://fontawesome.com) - icon library and toolkit.
 
-# Preview
+# Preview nice
 
 ![img](/ss/screenshoot-full.png)
 
